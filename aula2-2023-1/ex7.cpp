@@ -5,7 +5,6 @@
 using namespace std;
 
 int main () {
-  //make bhaskara formula
   double a, b, c, delta, x1, x2;
   cin >> a >> b >> c;
   delta = (b*b) - (4*a*c);
